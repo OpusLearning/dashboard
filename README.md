@@ -4,6 +4,8 @@
 
 # JamesWallace.tech Dashboard
 
+View the page here https://opuslearning.github.io/dashboard/
+
 ## Project Overview
 
 This repository contains the source code for the JamesWallace.tech dashboard mockup, 
